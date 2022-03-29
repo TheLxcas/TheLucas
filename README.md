@@ -30,8 +30,6 @@ class lucas{
 
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
-- 
-
 <h3>🌟 Contacts!</h3>
 
 <p align="center">
